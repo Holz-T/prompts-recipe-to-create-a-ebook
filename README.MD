@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="400" src=".github/assets/grafico gemini.png">
+</p>
+
 Projeto EBOOK Gerado por I.A.s<br><br>
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.<br><br>
 
