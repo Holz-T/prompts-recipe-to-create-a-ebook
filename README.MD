@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src=".github/assets/grafico gemini.png">
+    <img width="400" src=".github/assets/grafico_gemini.png">
 </p>
 
 Projeto EBOOK Gerado por I.A.s<br><br>
